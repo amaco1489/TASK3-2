@@ -46,7 +46,7 @@ require "csv"
     faces = ["終了","左","上","右","下"]
     if my_face == 0
       puts "-------------"
-      puts "中途歯半端過ぎる！笑"
+      puts "中途半端過ぎる！笑"
       puts "1.続ける / 0.終了"
       puts "-------------"
       my_select = gets.to_i
